@@ -1,0 +1,30 @@
+body {
+    background-image: url("../images/Penn.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:100%;
+}
+
+.container {
+	height: auto;
+	width: 100%;
+}
+
+.jumbotron {
+	opacity: 0.8;
+}
+
+.panel {
+	opacity: 0.8;
+}
+
+.panel > .panel-heading {
+    background-color: black;
+    color: white;
+}
+
+#addTrainBtn {
+    background-color: black;
+    color: white;
+    border: none;
+}
